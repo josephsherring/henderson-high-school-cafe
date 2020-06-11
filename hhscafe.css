@@ -1,0 +1,114 @@
+body{ 
+    margin:0;
+}
+
+
+/*Navbar Styles*/
+.topnav {
+  overflow: hidden;
+  background-color: #743A27;   
+    font-family: 'Yantramanav';
+}
+
+.topnav a {
+  color: #f2f2f2;
+  text-align: center;
+  padding: 35px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  float: right;
+}
+
+.topnav a:hover {
+  background-color: #dfdcd1;
+  color: black;
+  float: right;
+}
+
+/*Styles for the header*/
+
+.cafeheader{
+color: #f2f2f2;
+font-size: 60px;
+font-family: 'Asul';
+margin:0%;
+top: 10;
+font-size: 40px;
+padding-bottom: 27px;
+padding-left: 60px;
+padding-top: 20px;
+float: left;
+
+}
+
+
+h1 {
+color: #dfdcd1;
+background-color: #743A27; 
+}
+
+/*styles for the columns*/
+h2 {
+color: #dfdcd1;
+padding-left: 110px;
+font-family: 'Buda';
+}
+
+#aboutheader {
+color: #dfdcd1;
+padding-left: 0px;
+font-family: 'Buda';
+}
+
+
+*{box-sizing: border-box;}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+#itema {
+color: #dfdcd1;
+padding-left: 100px;
+padding-top: 80px;
+font-family: 'Be Vietnam';
+}
+
+#costa {
+color: #dfdcd1;
+padding-right:10%;
+padding-top: 80px;
+font-family: 'Be Vietnam';
+word-spacing: 20em;
+}
+
+#aboutus {
+color: #dfdcd1;
+padding-left: 20px;
+padding-top: 80px;
+font-family: 'Be Vietnam';
+margin-bottom: 30px;
+}
+
+.column {
+float: left;
+width: 50%;
+padding:0%;
+margin: 0px;
+}
+
+.columnb {
+float: left;
+width: 100%;
+padding:0%;
+padding-bottom: 20px;
+padding-left: 40px;
+margin: 0px;
+}
+.row:after {
+content: "";
+display: table;
+clear: both;
+}
