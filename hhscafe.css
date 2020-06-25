@@ -3,13 +3,14 @@ body{
 }
 
 
-/*Navbar Styles*/
+/*This part of the navbar manages the background and font*/
 .topnav {
   overflow: hidden;
   background-color: #743A27;   
     font-family: 'Yantramanav';
 }
 
+/*This is the code for the links for the navbar*/
 .topnav a {
   color: #f2f2f2;
   text-align: center;
@@ -19,6 +20,7 @@ body{
   float: right;
 }
 
+/*This is the colouring for when you hover your cursor over the navbar links*/
 .topnav a:hover {
   background-color: #dfdcd1;
   color: black;
