@@ -27,7 +27,7 @@ body{
   float: right;
 }
 
-/*Styles for the header*/
+/*Styles for the header such as the size, colour, padding, and positioning*/
 
 .cafeheader{
 color: #f2f2f2;
@@ -42,7 +42,7 @@ float: left;
 width: 100%;
 }
 
-
+/*background colours for h1*/
 h1 {
 color: #dfdcd1;
 background-color: #743A27; 
@@ -55,6 +55,7 @@ padding-left: 110px;
 font-family: 'Buda';
 }
 
+/*styles for the header on the about page*/
 #aboutheader {
 color: #dfdcd1;
 padding-left: 0px;
@@ -70,6 +71,7 @@ font-family: 'Buda';
   clear: both;
 }
 
+/* the styling for the items on my menu*/
 #itema {
 color: #dfdcd1;
 padding-left: 100px;
@@ -77,6 +79,7 @@ padding-top: 80px;
 font-family: 'Be Vietnam';
 }
 
+/* the styling for the costs on my menu*/
 #costa {
 color: #dfdcd1;
 padding-right:10%;
@@ -85,6 +88,7 @@ font-family: 'Be Vietnam';
 word-spacing: 20em;
 }
 
+/*css that changes the styles on the about us tags*/
 #aboutus {
 color: #dfdcd1;
 padding-left: 20px;
@@ -93,6 +97,7 @@ font-family: 'Be Vietnam';
 margin-bottom: 30px;
 }
 
+/*styles for the left column with the menu on it, float left makes it go left, and width makes the column take up 50% of webpage*/
 .column {
 float: left;
 width: 50%;
@@ -100,6 +105,7 @@ padding:0%;
 margin: 0px;
 }
 
+/*styles for the leftrightcolumn with the menu on it, float right makes it go right, and width makes the column take up 50% of webpage, the padding adds gaps underneath the column*/
 .columnb {
 float: left;
 width: 100%;
